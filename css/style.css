@@ -1,0 +1,33 @@
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+  color: rgb(240, 80, 93);
+  background-color: rgb(255, 236, 236);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(65, 37, 37);
+}
+
+h3 {
+  color: darkred;
+}
+
+a {
+  font-style: italic;
+}
+
+.CKNPM {
+  color: rgb(100, 86, 46);
+}
+
+.PIZZA {
+  color: rgb(35, 38, 85);
+}
+
+.BRCSL {
+  color: rgb(39, 78, 45)
+}
